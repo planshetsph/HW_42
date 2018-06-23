@@ -1,0 +1,88 @@
+01. Browser is: Firefox
+02. Title of the page: Facebook — войдите или зарегистрируйтесь
+03. Element [Copyright]: Exists
+04. Size of Copyright Text: (85, 13)
+05. Location of Copyright Text: (184, 833)
+06. Element [Email Field]: Exists
+07. Size of Email Field: (150, 24)
+08. Location of Email Field: (703, 33)
+09. Element [Password Field]: Exists
+10. Size of Password Field: (150, 24)
+11. Location of Password Field: (956, 33)
+12. Element [Login Button]: Exists
+13. Size of Login Button: (30, 18)
+14. Location of Login Button: (1127, 36)
+15. Element [Timeline Button]: Exists
+16. Size of Timeline Button: (41, 28)
+17. Location of Timeline Button: (682, 7)
+18. Element [Friends Button]: Exists
+19. Size of Friends Button: (107, 43)
+20. Location of Friends Button: (453, 357)
+21. Element [Account Settings]: Exists
+22. Size of Account Settings: (24, 24)
+23. Location of Account Settings: (1023, 9)
+24. Element [Log Out Button]: Exists
+25. Size of Log Out Button: (244, 24)
+26. Location of Log Out Button: (824, 480)
+27. Copyright: Facebook © 2018
+28. You have 26 friends
+
+
+01. Browser is: Chrome
+02. Title of the page: Facebook — войдите или зарегистрируйтесь
+03. Element [Copyright]: Exists
+04. Size of Copyright Text: (86, 12)
+05. Location of Copyright Text: (184, 818)
+06. Element [Email Field]: Exists
+07. Size of Email Field: (150, 23)
+08. Location of Email Field: (709, 34)
+09. Element [Password Field]: Exists
+10. Size of Password Field: (150, 23)
+11. Location of Password Field: (956, 34)
+12. Element [Login Button]: Exists
+13. Size of Login Button: (30, 18)
+14. Location of Login Button: (1127, 37)
+15. Element [Timeline Button]: Exists
+16. Size of Timeline Button: (42, 28)
+17. Location of Timeline Button: (676, 7)
+18. Element [Friends Button]: Exists
+19. Size of Friends Button: (104, 43)
+20. Location of Friends Button: (450, 357)
+21. Element [Account Settings]: Exists
+22. Size of Account Settings: (24, 24)
+23. Location of Account Settings: (1023, 9)
+24. Element [Log Out Button]: Exists
+25. Size of Log Out Button: (244, 24)
+26. Location of Log Out Button: (824, 480)
+27. Copyright: Facebook © 2018
+28. You have 26 friends
+
+
+01. Browser is: Edge
+02. Title of the page: Facebook — войдите или зарегистрируйтесь
+03. Element [Copyright]: Exists
+04. Size of Copyright Text: (87, 13)
+05. Location of Copyright Text: (185, 871)
+06. Element [Email Field]: Exists
+07. Size of Email Field: (150, 23)
+08. Location of Email Field: (709, 34)
+09. Element [Password Field]: Exists
+10. Size of Password Field: (150, 23)
+11. Location of Password Field: (957, 34)
+12. Element [Login Button]: Exists
+13. Size of Login Button: (30, 18)
+14. Location of Login Button: (1128, 37)
+15. Element [Timeline Button]: Exists
+16. Size of Timeline Button: (42, 28)
+17. Location of Timeline Button: (677, 7)
+18. Element [Friends Button]: Exists
+19. Size of Friends Button: (104, 43)
+20. Location of Friends Button: (451, 357)
+21. Element [Account Settings]: Exists
+22. Size of Account Settings: (24, 24)
+23. Location of Account Settings: (1024, 9)
+24. Element [Log Out Button]: Exists
+25. Size of Log Out Button: (244, 24)
+26. Location of Log Out Button: (809, 480)
+27. Copyright: Facebook © 2018
+28. You have 26 friends

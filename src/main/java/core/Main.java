@@ -21,6 +21,7 @@ public class Main {
 	public static By byEmail = By.id("email");
 	public static By byPassword = By.id("pass");
 	public static By byLogin = By.xpath("//*[@id='u_0_2' or @id='u_0_8']");
+	public static By byLoginForEdge = By.xpath("//*[@id='u_0_2' or @id='u_0_3']");
 	public static By byTimeline = By.xpath("//span[contains(@class,'_1vp5')]");
 	public static By byFriends = By.xpath("//a[@data-tab-key='friends']");
 	public static By bySettings = By.id("userNavigationLabel");
@@ -45,6 +46,8 @@ public class Main {
 		scanner.close();
 
 		Firefox.test(URL, email, password);
+		Chrome.test(URL, email, password);
+		Edge.test(URL, email, password);
 
 	}
 
